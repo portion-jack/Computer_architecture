@@ -11,3 +11,5 @@ ISA(Intruction Set Architecure)
         - 고정 길이 명령어
         - 명령어 파이프라인 구현시 매우 편리하다.
 
+## CPU 성능관련
+:
